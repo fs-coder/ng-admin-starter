@@ -323,6 +323,8 @@ The following files embed [d3.js](https://github.com/d3/d3) BSD 3-Clause:
 See `/licenses/LICENSE-d3` for details of the license.
 
 
+undefined
+
 mockjs
 MIT
 The MIT License (MIT)
@@ -381,8 +383,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-undefined
 
 rxjs
 Apache-2.0
